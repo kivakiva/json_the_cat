@@ -20,3 +20,5 @@ request(url, (err, response, body) => {
 }
 
 breedFetcher();
+
+module.exports = { breedFeatcher };
